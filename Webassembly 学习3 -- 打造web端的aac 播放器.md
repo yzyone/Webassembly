@@ -6,7 +6,7 @@ aac 是很常见的音频格式，压缩率比mp3 还高，H5 支持从audio 标
 
 ## 2、编译 ##
 
-进入faad 官网，http://www.linuxfromscratch.org/blfs/view/svn/multimedia/faad2.html，下载faad源码包并解压，cd 到工程目录
+进入faad 官网，[http://www.linuxfromscratch.org/blfs/view/svn/multimedia/faad2.html](http://www.linuxfromscratch.org/blfs/view/svn/multimedia/faad2.html) ，下载faad源码包并解压，cd 到工程目录
 
 ```
 cd faad2-2_10_0/
